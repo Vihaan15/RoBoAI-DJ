@@ -1,0 +1,30 @@
+.note {
+    font-size: 15px;
+    color: black;
+    font-family: 'Special Elite' , cursive;
+}
+
+body {
+    background-size: cover;
+}
+
+h3 {
+    box-shadow: grey;
+    font-family: 'Special Elite' , cursive;
+    color: black;
+}
+
+.Song-div {
+ font-family: 'Special Elite' , cursive;
+ color: black;
+}
+
+h1 {
+    font-family: 'Special Elite' , cursive;
+    color: white;
+}
+
+canvas {
+    border-radius: 15px;
+    box-shadow: black;
+}
